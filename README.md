@@ -1,11 +1,11 @@
 # Daily Volume Profile
 
-
 ## Plan
 
 * Collect data of a ticker from Yahoo Finance (or Google Finance or somewhere else)
 * Plot volume profile of selected frequency (daily, weekly, ...) for a period of time (a week or month or some other time frame)
 * Apply additional processing if necessary
+* Google [Colab](https://colab.research.google.coms) friendly
 
 ## References
 
